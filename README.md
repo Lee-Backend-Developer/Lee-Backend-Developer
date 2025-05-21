@@ -4,7 +4,7 @@
 
 안녕하세요! 저는 Java 기반의 백엔드 개발을 하고 있는 취준생 입니다.
 견고한 아키텍처와 클린 코드, 그리고 항상 배울려는 자세로 임합니다.
-
+EC2 배포는 돈이 들기에 배포를 안하고 있습니다.
 ---
 
 ### 🚀 Tech Stack
@@ -22,7 +22,7 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [amazon-backend](https://github.com/Lee-Backend-Developer/amazon-backend) | 아마존 백엔드 클론코딩 프로젝트 | Java, Spring Boot, MySQL |
-| ... | ... | ... |
+| [schoolEquipment](https://github.com/Lee-Backend-Developer/schoolEquipment) | 대학교 기자재 관리 프로젝트 | Java, Spring Boot, MySQL |
 
 ---
 
